@@ -7,9 +7,9 @@ class Solution:
                 i += 1
             elif numbers[i] + numbers[j] > target:
                 j -= 1
-            elif numbers[i] + numbers[j] == target:
-                break
-        return i + 1, j + 1
+            else:
+                return i + 1, j + 1
+        
 
         
 
