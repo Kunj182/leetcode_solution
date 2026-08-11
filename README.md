@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Kunj182/leetcode_solution/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Kunj182/leetcode_solution/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kunj182/leetcode_solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Kunj182/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunj182/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Kunj182/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kunj182/leetcode_solution/tree/master/0283-move-zeroes) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kunj182/leetcode_solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -40,10 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kunj182/leetcode_solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Kunj182/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Kunj182/leetcode_solution/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kunj182/leetcode_solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunj182/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Kunj182/leetcode_solution/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kunj182/leetcode_solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kunj182/leetcode_solution/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kunj182/leetcode_solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
