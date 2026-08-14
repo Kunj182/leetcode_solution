@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunj182/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Kunj182/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kunj182/leetcode_solution/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Kunj182/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Kunj182/leetcode_solution/tree/master/0575-distribute-candies) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kunj182/leetcode_solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kunj182/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Kunj182/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kunj182/leetcode_solution/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Kunj182/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Kunj182/leetcode_solution/tree/master/0575-distribute-candies) |
 ## Bit Manipulation
 |  |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kunj182/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Kunj182/leetcode_solution/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Kunj182/leetcode_solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
