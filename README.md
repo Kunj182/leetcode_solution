@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kunj182/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kunj182/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Kunj182/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kunj182/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/Kunj182/leetcode_solution/tree/master/0575-distribute-candies) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kunj182/leetcode_solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -75,8 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kunj182/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kunj182/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kunj182/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kunj182/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
