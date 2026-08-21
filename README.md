@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kunj182/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Kunj182/leetcode_solution/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Kunj182/leetcode_solution/tree/master/0415-add-strings) |
 ## String
@@ -99,9 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kunj182/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kunj182/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Kunj182/leetcode_solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kunj182/leetcode_solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
