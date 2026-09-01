@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kunj182/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kunj182/leetcode_solution/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kunj182/leetcode_solution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/Kunj182/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Kunj182/leetcode_solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kunj182/leetcode_solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunj182/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kunj182/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Kunj182/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
