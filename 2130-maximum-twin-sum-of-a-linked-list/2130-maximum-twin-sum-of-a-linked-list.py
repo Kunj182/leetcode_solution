@@ -5,28 +5,16 @@
 #         self.next = next
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
-
-        def reverselist(head_node): 
-            prev = None
-            curr = head_node
-            while curr is not None:
-                next_node = curr.next
-                curr.next = prev
-                prev = curr
-                curr = next_node
-            return prev
-        slow = head
-        fast = head
-
-        while fast!=None and fast.next!=None:
-            slow = slow.next
-            fast = fast.next.next
-        p1 = head
-        p2 = reverselist(slow)
+        values = []
+        while head != None:
+            values.append(head.val)
+            head = head.next
+        i = 0
+        j = len(values)-1
         max_val = float('-inf')
-        while p1 != None and p2 != None:
-            candidate = p1.val + p2.val
+        while i < j :
+            candidate = values[i] + values[j]
             max_val = max(max_val, candidate)
-            p1 = p1.next
-            p2 = p2.next
+            i += 1
+            j -= 1
         return max_val
