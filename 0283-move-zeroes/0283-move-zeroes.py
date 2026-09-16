@@ -9,9 +9,7 @@ class Solution:
         while i < len(nums) and j < len(nums):
             if nums[j] == 0:
                 j += 1
-
             else:
                 nums[i], nums[j] = nums[j], nums[i]
                 i += 1
                 j += 1
-                
