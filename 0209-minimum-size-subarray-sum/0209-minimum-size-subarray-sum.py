@@ -1,17 +1,18 @@
 import math
 class Solution:
     def minSubArrayLen(self, target: int, nums: list[int]) -> int:
-        sum = 0
+        current_sum = 0
         size = math.inf
         i = 0
         j = 0
         while j < len(nums):
-            sum = sum + nums[j]
-            while sum >= target:
+            current_sum = current_sum + nums[j]
+            while current_sum >= target:
                 size = min(size, j - i + 1)
-                sum = sum - nums[i]
+                current_sum = current_sum - nums[i]
                 i += 1
             j += 1
+        return 0 if size == math.inf else size
 
         # for i in range(len(nums)):
         #     sum = 0
@@ -22,6 +23,6 @@ class Solution:
         #         if sum >= target:
         #             size = min(size, j - i + 1)
         #             break
-        return 0 if size == math.inf else size
+        
 
 
