@@ -14,15 +14,4 @@ class Solution:
             j += 1
         return 0 if size == math.inf else size
 
-        # for i in range(len(nums)):
-        #     sum = 0
-        #     for j in range(i,len(nums)):
-
-        #         sum = sum + nums[j]
-
-        #         if sum >= target:
-        #             size = min(size, j - i + 1)
-        #             break
-        
-
 
